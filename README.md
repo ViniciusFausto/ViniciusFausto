@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Hoje eu trabalho com back-end utilizando Java.
-- ✅Estudando várias tecnologias de desenvolvimento, principalmente Java.
-- 🎮Adoro jogar diversos tipos de jogos.
+- 🔭 Today I work with backend using Java.
+- ✅ Studying various development technologies, mainly Java.
+- 🎮 I love to play different types of games.
 
 <div>
     <a href="https://github.com/ViniciusFausto">
