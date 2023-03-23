@@ -1,8 +1,8 @@
-### Olá! Eu sou o Vinicius Fausto
+### Hello! My name is Vinicius Fausto.
 
 
 
-- 🔭 Today I work with backend using Java.
+- 🔭 Today I work with Back-End using Java. But I'm studying Front-End to in the future work as a FullStack developer.
 - ✅ Studying various development technologies, mainly Java.
 - 🎮 I love to play different types of games.
 
