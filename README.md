@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Today I work with Back-End using Java. But I'm studying Front-End to in the future work as a FullStack developer.
+- 🔭 Today I work with Back-End using Java/Spring.
 - ✅ Studying various development technologies, mainly Java/Javascript.
 - 🎮 I love to play different types of games.
 
@@ -18,7 +18,6 @@
   <img align="center" alt="Vini-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Vini-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
   <img align="center" alt="Vini-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">	
-  <img align="center" alt="Vini-JQuery" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 </div>
 
 ##
