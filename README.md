@@ -3,7 +3,7 @@
 
 
 - 🔭 Today I work with Back-End using Java/Spring.
-- ✅ Studying various development technologies, mainly Java/Javascript.
+- ✅ Studying various development/Cloud technologies, mainly Java/Spring.
 - 🎮 I love to play different types of games.
 
 <div>
