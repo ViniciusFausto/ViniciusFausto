@@ -3,7 +3,7 @@
 
 
 - 🔭 Today I work with Back-End using Java/Spring.
-- ✅ Studying to be a full stack dev.
+- ✅ Studying microsservices.
 - 🎮 I love to play different types of games.
 
 <div>
