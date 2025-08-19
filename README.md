@@ -2,9 +2,7 @@
 
 
 
-- 🔭 Today I work with Back-End using Java/Spring.
-- ✅ Studying microsservices.
-- 🎮 I love to play different types of games.
+- 🔭 Actually I'm working as a Fullstack Developer using Java(Spring) for Backend side and JQuery for the UI.
 
 <div>
     <a href="https://github.com/ViniciusFausto">
