@@ -1,15 +1,9 @@
-### Hello! My name is Vinicius Fausto.
+### Hello!
 
-
-
-- 🔭 Actually I'm working as a Fullstack Developer using Java(Spring) for Backend side and JQuery for the UI.
-
-<div>
-    <a href="https://github.com/ViniciusFausto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusFausto&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFausto&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width:  100%;">
-    </a>
+<div style="text-align: center justify-content:center">
+My name is Vinicius Fausto a Fullstack Developer with a strong foundation in Java and JavaScript, passionate about building robust, scalable, and user-friendly applications. Experienced with the Spring Framework on the back end and modern JavaScript for front-end development. Continuously learning and staying current with the latest tech trends. Open to new challenges and opportunities to collaborate, grow, and create impactful solutions
 </div>
+
  <div style="display: inline-block"><br>
   <img align="center" alt="Vini-Java" height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Vini-Spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
